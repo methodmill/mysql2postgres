@@ -1,7 +1,7 @@
-ruby '1.9.3'
+ruby '2.1.3'
 source 'https://rubygems.org'
 
-gem 'rake', '~> 10.3'
+gem 'rake', '~> 10.4'
 gem 'mysql-pr', '~> 2.9'
 gem 'postgres-pr', '~> 0.6'
 
